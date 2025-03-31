@@ -16,18 +16,11 @@ LocalTrade is a hyperlocal community-driven web application developed using Flas
 
 ```bash
 └── LocalTrade
-    ├── instance
-    │   └── market.db
     ├── market
     │   ├── forms.py
     │   ├── __init__.py
     │   ├── market.db
     │   ├── models.py
-    │   ├── __pycache__
-    │   │   ├── forms.cpython-312.pyc
-    │   │   ├── __init__.cpython-312.pyc
-    │   │   ├── models.cpython-312.pyc
-    │   │   └── routes.cpython-312.pyc
     │   ├── routes.py
     │   ├── static
     │   │   ├── brand.jpg
