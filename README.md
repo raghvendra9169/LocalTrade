@@ -12,31 +12,6 @@ LocalTrade is a hyperlocal community-driven web application developed using Flas
 - **Data Security**: Bcrypt hashing for password security and CSRF protection to prevent cross-site request forgery.
 - **Wallet Feature**: Integrated wallet functionality for managing transactions within the platform.
 
-### Project Structure
-
-```bash
-└── LocalTrade
-    ├── market
-    │   ├── forms.py
-    │   ├── __init__.py
-    │   ├── market.db
-    │   ├── models.py
-    │   ├── routes.py
-    │   ├── static
-    │   │   ├── brand.jpg
-    │   │   └── landing.jpg
-    │   └── templates
-    │       ├── base.html
-    │       ├── home.html
-    │       ├── includes
-    │       │   ├── items_modals.html
-    │       │   └── owned_items_modals.html
-    │       ├── login.html
-    │       ├── market.html
-    │       ├── register.html
-    │       └── register_product.html
-    └── run.py
-```
 
 ### Security Measures
 
