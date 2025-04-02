@@ -35,7 +35,6 @@ LocalTrade is a hyperlocal community-driven web application developed using Flas
     │       ├── market.html
     │       ├── register.html
     │       └── register_product.html
-    ├── __pycache__
     └── run.py
 ```
 
